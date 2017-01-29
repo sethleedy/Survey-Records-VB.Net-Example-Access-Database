@@ -1,0 +1,33 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\bin\Debug\Survey.exe.config
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\bin\Debug\Survey.mdb
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\bin\Debug\Survey.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\bin\Debug\Survey.pdb
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\bin\Debug\Survey.xml
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.Resources.resources
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.vbproj.GenerateResource.Cache
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.exe
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.xml
+C:\Users\Seth\AppData\Local\Temporary Projects\Survey\obj\Debug\Survey.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\bin\Debug\Survey.mdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\bin\Debug\Survey.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\bin\Debug\Survey.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.Resources.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\Survey\Survey\obj\Debug\Survey.vbproj.GenerateResource.Cache
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\bin\Debug\Survey.mdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\bin\Debug\Survey.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\bin\Debug\Survey.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.Resources.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\week7\a\vb Survey\Survey\obj\Debug\Survey.vbproj.GenerateResource.Cache
